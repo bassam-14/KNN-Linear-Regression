@@ -27,6 +27,3 @@ The model ended up with:
 
 - Test MSE: 48,308,633,688
 - Test MAE: 208,467
-
-
-
