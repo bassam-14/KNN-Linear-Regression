@@ -14,7 +14,7 @@
    - Keeps iterating until convergence (or max iterations)
    - The L1 penalty term makes some coefficients shrink to exactly zero
 
-##Key Parameters:
+## Key Parameters:
 
 - `alpha`: The regularization strength (tuned using validation set)
 - `max_iter`: Set to 5000 to make sure it converges
